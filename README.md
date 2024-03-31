@@ -1,4 +1,6 @@
-# Correlation and regression for data analysis
+                                                                                                        NAME : M.Shubhavi
+                                                                                                      REG.NO :212223040199
+# EX-3: Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
